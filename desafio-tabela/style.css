@@ -1,0 +1,19 @@
+.tabela tbody{
+    background-color: #424250;
+}
+
+.tabela tr{
+    color: white;
+}
+
+.tabela th, td {
+    padding: 10px;  
+}
+
+.moda thead{
+    background-color: #bb86fc;
+}
+
+.casa thead{
+    background-color: #00c4b4;
+}
